@@ -1,2 +1,2 @@
 # Book-detecrion
-Detecting book in image
+Detecting book in image by finding the biggest rectangle
